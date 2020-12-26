@@ -7,8 +7,10 @@
 
 ***
 
+```
 O arquvo "sqlitet.py" que contêm toda explicação, este após lido e entendido
 pode ser executado, tudo aquilo aprendido poderá então ser visto na prática.
+```
 
 ## SQLite3 && Python3
 
