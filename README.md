@@ -12,7 +12,7 @@ pode ser executado, tudo aquilo aprendido poderá então ser visto na prática.
 
 ## SQLite3 && Python3
 
-´´´
+```
 
  Criando  e Gerenciando  um  banco  de dados  com python3 e SQLite3.
 
@@ -138,6 +138,6 @@ for item in cursor.fetchall():
 # que o necessário para  começar  a  fazer implementações  
 # bem úteis em projetos mais simples.
 
-´´´
+```
 
 
