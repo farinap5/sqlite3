@@ -14,7 +14,7 @@ pode ser executado, tudo aquilo aprendido poderá então ser visto na prática.
 
 ## SQLite3 && Python3
 
-```
+```python
 
  Criando  e Gerenciando  um  banco  de dados  com python3 e SQLite3.
 
