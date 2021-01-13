@@ -16,7 +16,7 @@ pode ser executado, tudo aquilo aprendido poderá então ser visto na prática.
 
 ```python
 
- Criando  e Gerenciando  um  banco  de dados  com python3 e SQLite3.
+# Criando  e Gerenciando  um  banco  de dados  com python3 e SQLite3.
 
 # SQL é uma linguagem muito  boa para  criação de  tabelas, as  quais
 # podemos inserir, atualizar, apagar ou apenas vizualizar informações
@@ -65,7 +65,7 @@ cursor.execute("""
 #          FLOAT | Números fracionários (ponto flutuante).
 #           DATE | Data no formato mysql (ano-mês-dia).
 #       NOT NULL | Indica que o atributo não pode ser nulo (deve possuir um valor).
-# AUTOINCREMENT | Indica que o valor valor do campo será incrementado automaticamente.
+#  AUTOINCREMENT | Indica que o valor valor do campo será incrementado automaticamente.
 #    PRIMARY KEY | Indica que o atributo é uma chave primária (identificador único).
 #           TEXT | Armazena texto (não pode ser do tipo “not null”).
 
